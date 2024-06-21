@@ -54,7 +54,7 @@
                     <!-- JaCoCo Report Path -->
                     <outputDirectory>${project.basedir}/report</outputDirectory>
                     <!-- Output type -->
-                    <output>html</output>
+                    <output>file</output>
                 </configuration>
                 <executions>
                     <execution>
